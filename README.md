@@ -1,3 +1,9 @@
+## 📬 Contact
+
+Developed by [Shovon Saha](https://github.com/Shovon1988)  
+📧 Email: shovon@pixelart.net.nz 
+💼 LinkedIn: https://www.linkedin.com/in/shovon-saha-09b049356/
+
 ##  Features (Detailed)
 
 ###  Region‑Based Base Rates
