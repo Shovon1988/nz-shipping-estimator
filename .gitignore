@@ -1,0 +1,46 @@
+# OS junk
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Icon?
+
+# IDE/editor settings
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Logs and debug
+*.log
+*.sql
+*.sqlite
+*.tmp
+
+# Composer / PHP vendor
+vendor/
+composer.lock
+
+# Node / build tools
+node_modules/
+npm-debug.log
+yarn-error.log
+dist/
+build/
+
+# WordPress environment (not needed in plugin repo)
+wp-config.php
+wp-content/uploads/
+wp-content/cache/
+wp-content/upgrade/
+wp-content/advanced-cache.php
+wp-content/object-cache.php
+
+# Backup/temporary files
+*.bak
+*.swp
+*.orig
+*.save
+*~
+
+# Windows extras
+Desktop.ini
